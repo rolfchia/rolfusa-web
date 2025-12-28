@@ -75,6 +75,14 @@ First, run the development server:
 
 7. ✅ Done!
 
+---
+
+## Run Test
+
+### Install testing dependencies
+
+- `npm install --save-dev jest @types/jest jest-environment-jsdom @testing-library/react @testing-library/jest-dom`
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
