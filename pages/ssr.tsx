@@ -1,5 +1,5 @@
 import Header from "../components/Header";
-import { APP_VERSION } from "./version";
+import { APP_VERSION } from "../lib/version";
 
 interface SSRProps {
   message: string;
