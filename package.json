@@ -1,6 +1,6 @@
 {
   "name": "rolfusa-web",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^1.13.2",
     "next": "16.0.1",
     "react": "19.2.0",
     "react-dom": "19.2.0"
